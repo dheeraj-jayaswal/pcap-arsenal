@@ -119,15 +119,11 @@ pcap-arsenal/
 
 Domain Expertise: Income Tax · Retail · E-Commerce · Education · Freight Logistics · Banking
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/dheeraj-jayaswal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dheerajkumarjayaswal/)
 
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
 
 > 💡 *Star ⭐ this repo if you find it useful. Contributions and pull requests for additional captures are welcome!*
